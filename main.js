@@ -1,11 +1,3 @@
-/*
- * Name: Noah Broyles
- * Email: broylend@mail.uc.edu
- * Assignment: Quiz App
- * Due: 11/01/2020
- * Description: Javascript Quiz App
- * 
-*/
 
 'use strict';
 
